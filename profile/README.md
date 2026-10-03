@@ -1,7 +1,7 @@
 # D4rk-Wolf
 
-Independent software studio — Android · Dev Tools · Embedded Systems · Web3  
-Manchester, UK · Est. 2023
+Independent UK software studio — SaaS products and websites for small businesses.
+Manchester, UK
 
 [![Website](https://img.shields.io/badge/Website-d4rkwolf.co.uk-000000?style=flat&logo=googlechrome&logoColor=white)](https://d4rkwolf.co.uk/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40turkishDW-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/turkishDW)
@@ -9,51 +9,30 @@ Manchester, UK · Est. 2023
 
 ---
 
-## Projects
+## What we're building
 
-| Project | Platform | Status | Description | Tech |
-| --- | --- | --- | --- | --- |
-| [DoseFlow](https://github.com/D4rk-Wolf/DoseFlow) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Shipping](https://img.shields.io/badge/Shipping-brightgreen?style=flat) | Medication tracking for Android | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
-| [AutoVibe](https://github.com/D4rk-Wolf/AutoVibe) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Shipping](https://img.shields.io/badge/Shipping-brightgreen?style=flat) | Atmosphere automation for Android | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
-| [GarageGuardian](https://github.com/D4rk-Wolf/GarageGuardian) | ![Hardware](https://img.shields.io/badge/Hardware-E7352C?style=flat&logo=espressif&logoColor=white) | ![Shipping](https://img.shields.io/badge/Shipping-brightgreen?style=flat) | IoT garage monitoring with Android + ESP32 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
-| [JounoApp](https://github.com/D4rk-Wolf/JounoApp) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Shipping](https://img.shields.io/badge/Shipping-brightgreen?style=flat) | Markdown journaling for Android | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
-| [AI Document Templates](https://github.com/D4rk-Wolf/ai-document-templates) | ![Desktop](https://img.shields.io/badge/Desktop-0078D4?style=flat&logo=tauri&logoColor=white) | ![Shipping](https://img.shields.io/badge/Shipping-brightgreen?style=flat) | AI doc tooling for developers | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
-| Smart Helmet | ![Hardware](https://img.shields.io/badge/Hardware-E7352C?style=flat&logo=espressif&logoColor=white) | ![Prototype](https://img.shields.io/badge/Prototype-orange?style=flat) | Cyclist safety hardware prototype | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
-| Nexus | ![Web3](https://img.shields.io/badge/Web3-627EEA?style=flat&logo=ethereum&logoColor=white) | ![In Development](https://img.shields.io/badge/In%20Development-blue?style=flat) | Web3 social platform | |
-| Sovereign OS | ![Systems](https://img.shields.io/badge/Systems-FCC624?style=flat&logo=linux&logoColor=black) | ![Internal](https://img.shields.io/badge/Internal-lightgrey?style=flat) | Custom Linux platform | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| Product | For | Status |
+| --- | --- | --- |
+| **Fleet Platform** *(working title)* | Chauffeur and executive-transport operators — bookings, dispatch, drivers, vehicles, invoicing in one place | ![In Development](https://img.shields.io/badge/In%20Development-blue?style=flat) |
+| **LandLordLens** | UK landlords — property, tenancy and compliance-certificate tracking | ![In Development](https://img.shields.io/badge/In%20Development-blue?style=flat) |
+
+## Studio services
+
+Fast, modern websites for UK small businesses — design, build, hosting and care.
+Get in touch via [d4rkwolf.co.uk](https://d4rkwolf.co.uk/).
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4rk-Wolf&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=D4rk-Wolf&theme=github-dark&hide_border=true)
-
-</td>
-<td width="45%" valign="top">
-
-**Mobile**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-**Desktop / Web**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+**Stack**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Systems**  
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
 ---
 
-> Small teams. Real products. On-device data. No hype.
+> Small teams. Real products. No hype.
